@@ -29,7 +29,7 @@ const Table = () => {
   };
 
   return (
-    <div>
+    <section>
       <input
         type="text"
         name="search"
@@ -47,7 +47,7 @@ const Table = () => {
       <table>
         <thead>
           <tr>
-            <th>sl nom</th>
+            <th>Sl.No</th>
             <th>Name</th>
             <th>Country</th>
             <th>Website</th>
@@ -87,7 +87,7 @@ const Table = () => {
           Next
         </button>
       </div>
-    </div>
+    </section>
   );
 };
 
