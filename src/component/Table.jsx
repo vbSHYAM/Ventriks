@@ -69,6 +69,7 @@ const Table = () => {
       <div className="filters">
         <label htmlFor="">Search :</label>
         <input
+          autoFocus
           className="searchInput"
           type="text"
           name="search"

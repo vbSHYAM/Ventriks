@@ -57,7 +57,7 @@ table {
     width: 24%;
     height: 5vh;
     border-radius: 10px;
-
+text-align: center;
   }
   #select_country{
     margin-left:11%;
@@ -96,6 +96,5 @@ width: 40%;
     margin-left: 95px;
   }
 
-  input::placeholder{
-padding-left: 60px;
-  }
+  
+ 
